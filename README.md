@@ -10,4 +10,4 @@ Al hacer una petición a index.html observamos la respuesta del server
 ![](screenshots/Server1.png)
 Datagramas:
 hacemos que el server se duerma 5 segundos y siga pidiendo el tiempo
-![](screenshots/Server2.png)
+![](screenshots/server2.png)
